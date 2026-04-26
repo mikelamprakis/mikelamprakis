@@ -1,6 +1,6 @@
 # Mike Lamprakis
 
-Economics grad turned backend engineer turned AI builder. I've spent years making distributed systems reliable at scale — payment infrastructure, event streaming, high-throughput services. These days I'm equally interested in what happens when you give those systems a brain.
+Economics grad turned full-stack engineer turned AI builder. I've spent years making distributed systems reliable at scale — payment infrastructure, event streaming, high-throughput services. These days I'm equally interested in what happens when you give those systems a brain.
 
 ---
 
