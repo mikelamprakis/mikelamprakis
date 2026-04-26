@@ -75,14 +75,7 @@ Economics grad turned backend engineer turned AI builder. I've spent years makin
 
 - **Agentic AI patterns** — agent-of-agents, memory, tool use, multi-step reasoning
 - **MCP (Model Context Protocol)** — building servers and connecting tools to LLMs
-- **LangGraph** — stateful, graph-based agent workflows
-- **RAG in production** — chunking strategies, hybrid search, evaluation
-
----
-
-## Writing
-
-I write about backend engineering and AI on [Tech & Beyond](https://github.com/mikelamprakis/tech-and-beyond) with Tamara Joniec — covering Java, distributed systems, LLMs, and the occasional deep dive.
+- **System design** — scalable architectures, distributed systems patterns, trade-off analysis
 
 ---
 
