@@ -1,8 +1,6 @@
 # Mike Lamprakis
 
-Backend engineer with a focus on Java, distributed systems, and AI agents. I build things that process data at scale and increasingly things that *think* at scale.
-
-Currently exploring the intersection of production software engineering and agentic AI — agents that orchestrate agents, multi-step reasoning pipelines, and LLM-powered tools that go beyond simple chat wrappers.
+Economics grad turned backend engineer turned AI builder. I've spent years making distributed systems reliable at scale — payment infrastructure, event streaming, high-throughput services. These days I'm equally interested in what happens when you give those systems a brain.
 
 ---
 
